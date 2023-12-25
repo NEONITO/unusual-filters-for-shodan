@@ -1,4 +1,5 @@
 # unusual-filters-for-shodan
+**I do not take responsibility for the misuse of any of these filters. This collection is for demonstration purposes only. Any unusual equipment exposed to the world can be found via Shodan**
 
 **Samsung Electronic Billboards "Server: Prismview Player"**
 
@@ -28,3 +29,10 @@
 **Nordex Wind Turbine Farms http.title:"Nordex Control" "Windows 2000 5.0 x86" "Jetty/3.1 (JSP 1.1; Servlet 2.2; java 1.6.0_14)"**
 
 **C4 Max Commercial Vehicle GPS Trackers "[1m[35mWelcome on console"**
+
+**GaugeTech Electricity Meters "Server: EIG Embedded Web Server" "200 Document follows"**
+
+
+**Door / Lock Access Controllers "HID VertX" port:4070**
+
+**Unprotected VNC "authentication disabled" "RFB 003.008"**
